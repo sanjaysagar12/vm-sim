@@ -1,34 +1,32 @@
-# 💼 Smart Customer Support Portal
+# Smart Customer Support Portal
 
-A responsive and intelligent customer support portal built for **VelsyMedia**, designed to streamline client communication, issue tracking, and support ticket management.
+A professional and scalable customer support portal built for **VelsyMedia**.  
+This project aims to streamline and enhance VelsyMedia’s engagement with its customers by providing a centralized platform for support and inquiry management.
 
----
+## Project Purpose
 
-## 📌 Project Overview
+Our objective is to deliver a modern support solution that enables VelsyMedia to efficiently respond to client needs and support requests, ensuring high satisfaction and operational efficiency.
 
-The **Smart Customer Support Portal** is a centralized platform developed to enhance customer interaction and support efficiency for VelsyMedia. It enables users to submit queries, track their tickets, and communicate with the support team in a structured, user-friendly environment.
+## Getting Started
 
----
+> 🚧 **This is an initial setup / work-in-progress.**  
+> Full installation and usage instructions will be provided soon.
 
-## 🎯 Objective
+## Project Structure
 
-The goal of this project is to provide:
-- A seamless user experience for customers to raise support tickets.
-- A simple backend interface for support agents to manage and respond to queries.
-- A scalable, modular codebase for continuous enhancement and feature integration.
+- Organized codebase for backend and frontend (details coming soon)
+- Modular components for maintainable development
 
----
+## Technology Stack (Planned)
 
-## 🛠️ Project Structure
+- Python (backend)
+- HTML/CSS/JavaScript (frontend)
+- Additional tools and libraries TBD
 
-```bash
-velsymedia-support-portal/
-├── public/                # Static assets
-├── src/                   # Source files
-│   ├── components/        # Reusable UI components
-│   ├── pages/             # Route-based pages
-│   ├── services/          # API services
-│   └── utils/             # Helper functions
-├── .gitignore
-├── README.md
-└── package.json
+## Contributing
+
+Guidelines will be added in future updates.
+
+## License
+
+License information will be provided once the project reaches a more stable release.
